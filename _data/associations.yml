@@ -1,15 +1,8 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
-
-
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+#- organization: ShineTech
+#  role: Full Stack Engineer
+#  year: 2020 &mdash; 2023
+#  url: https://www.shinetechsoftware.com
+#  summary: Developing and implementing web applications using various programming languages, such as Java, JavaScript, HTML, CSS, and SQL. Collaborating with other members of a development team, including designers, developers, and project managers. Developing and maintaining server-side applications using frameworks such as Node.js or Spring Boot. Designing and maintaining databases using technologies such as MySQL or MongoDB. Creating and implementing testing plans to ensure the reliability and security of web applications.

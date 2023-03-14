@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Spike Lee"
+description: "Who is Spike Lee."
 
 # Build settings
 markdown: kramdown
@@ -9,12 +9,12 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+#resume_avatar:                  "true"
 resume_name:                    "Spike Lee"
 resume_title:                   "Full Stack Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "renziyang1999@outlook.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 #resume_contact_telephone:       "555-7334"
@@ -23,7 +23,11 @@ resume_contact_email:           "lisasimpson@youremailaddress.com"
 #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 #display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Well-qualified full stack developer familiar with a wide range of programming utilities and
+languages. Knowledgeable of backend and frontend development requirements. Handles any
+part of the process with ease. Collaborative team player with excellent technical abilities
+offering almost 3 years of related experience. Passionate about learning new technology and
+Enjoy programming</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -39,7 +43,7 @@ resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
