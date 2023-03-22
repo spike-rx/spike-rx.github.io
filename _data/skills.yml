@@ -1,16 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Java, Kotlin, Python, Shell
-#  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Java, C#, JavaScript, Kotlin, Python, Shell
+#  description: I have several years of experience leading organizations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
 # Communications strategy
-- skill: Sql, MongoDB, Elasticsearch
+- skill: Sql, MongoDB, Elasticsearch, RabbitMQ, Redis
 #  description: Content and marketing strategy,
 
 # Digital content development and creation
-- skill: JavaScript, HTML, CSS
+- skill: Spring Boot, .Net6, React, Next.js, Vue.js
 #  description: Copy writing, graphic design, web design, front-end web development, print design
 
-- skill: Docker, Kubernetes
+- skill: Docker, Kubernetes, CircleCI, Jenkins
 
-- skill: Jira
+- skill: Jira, TDD
