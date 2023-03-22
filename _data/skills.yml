@@ -8,7 +8,7 @@
 #  description: Content and marketing strategy,
 
 # Digital content development and creation
-- skill: Spring Boot, .Net6, React, Next.js, Vue.js
+- skill: Spring Boot, ASP.NET Core, React, Next.js, Vue.js
 #  description: Copy writing, graphic design, web design, front-end web development, print design
 
 - skill: Docker, Kubernetes, CircleCI, Jenkins
