@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 #resume_avatar:                  "true"
-resume_name:                    "Spike Lee"
+resume_name:                    "Spike Ren"
 resume_title:                   "Full Stack Engineer"
 
 # used for the contact button in _layouts/resume.html
