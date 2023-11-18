@@ -2,14 +2,26 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: HUMAN RESOURCE PLATFORM
+- project: Stock Trading
   role: Full stack developer
   # url: "#"
-  description: The human resource platform is a web-based Sass platform designed to provide HR professionals with a central location for managing and organizing employee information and HR processes. The platform typically includes modules for managing employee data, tracking time and attendance, assigning projects, payment and billing and onboarding, benefits administration, performance management, and training and development.
+  description: A stock trading app, is a software application designed for smartphones and tablets that enables users to trade stocks and manage their investment portfolios. These apps have become increasingly popular due to their convenience and accessibility, allowing users to monitor and execute trades from virtually anywhere.
 
+
+
+
+- project: Enterprise internal management platform (L'Oréal - French)
+  role: Full stack developer
+  # url: "#"
+  description: The management platform is a web-based Sass platform for L'Oréal(French Company) designed to provide HR professionals with a central location for managing and organizing employee information and HR processes. The platform typically includes modules for managing employee data, tracking time and attendance, assigning projects, payment and billing and onboarding, benefits administration, performance management, and training and development. 
 # Springfield Community Outreach Group
 #- project: Springfield Community Outreach Group
 #  role: Co-Founder & Organizer
 #  duration: 2007 &mdash; Present
 #  # url: "#"
 #  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+- project: HUMAN RESOURCE PLATFORM
+  role: Full stack developer
+  # url: "#"
+  description: Our project is an advanced platform designed to facilitate the deployment of domestic professionals to international projects while efficiently managing the associated operations. Leveraging a cutting-edge C# distributed microservices architecture, this platform ensures robustness, scalability, and an exceptional user experience. It integrates a robust tech stack, combining ASP.Net Core,  React, Redux, Redux Toolkit, RabbitMQ, Kubernetes orchestration, Docker containerization, AWS cloud infrastructure, and AWS DevOps to deliver a holistic solution.
