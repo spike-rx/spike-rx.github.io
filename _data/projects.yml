@@ -24,4 +24,4 @@
 - project: HUMAN RESOURCE PLATFORM
   role: Full stack developer
   # url: "#"
-  description: Our project is an advanced platform designed to facilitate the deployment of domestic professionals to international projects while efficiently managing the associated operations. Leveraging a cutting-edge C# distributed microservices architecture, this platform ensures robustness, scalability, and an exceptional user experience. It integrates a robust tech stack, combining ASP.Net Core,  React, Redux, Redux Toolkit, RabbitMQ, Kubernetes orchestration, Docker containerization, AWS cloud infrastructure, and AWS DevOps to deliver a holistic solution.
+  description: Our project is an advanced platform designed to facilitate the deployment of domestic professionals to international projects while efficiently managing the associated operations. Leveraging a cutting-edge service mesh distributed microservices architecture, this platform ensures robustness, scalability, and an exceptional user experience.
